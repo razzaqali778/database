@@ -118,7 +118,3 @@ This guide provides an overview of CRUD operations, query operators, update oper
 - **Schema Design**: Consider your application’s query patterns when designing your schema.
 - **Error Handling**: Always implement error handling for database operations.
 - **Security**: Implement proper access controls and encryption.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
